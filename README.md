@@ -6,7 +6,7 @@ Studied and Analyzed the Heart Attack Prediction dataset to applying ML models a
 
 Performed various Exploratory Data Analysis to understand the data and compare the variables.
 
-Experimented with different Machine Learning algorithms, Logistic Regression, Neural Networks, Bagging, and Boosting.
+Experimented with different Machine Learning algorithms, Logistic Regression, Neural Networks,Decision Tree,Random Forest,KNN,SVM, Bagging, and Boosting.
 
 Compared the results to recommend the best Machine Learning model.
 
